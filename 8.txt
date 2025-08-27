@@ -1,0 +1,5 @@
+Reading is one of the most common ways of consuming information, but not everyone is able to read comfortably. Some people may face challenges due to visual impairment, learning disabilities, or simply due to busy lifestyles where listening is easier than reading. This is where Text-to-Speech (TTS) technology plays a crucial role.
+
+TTS systems take written input (text) and convert it into human-like speech output. They are widely used in accessibility tools, screen readers, e-learning platforms, voice assistants, and even entertainment applications such as audiobooks.
+
+This project, named ProVoice — Text to Speech Application, is a Python-based offline TTS system with a graphical interface. It is designed to be user-friendly, responsive, and practical while demonstrating the concepts of GUI programming, multithreading, and speech synthesis. Unlike online tools that require internet and APIs, this application works completely offline, making it lightweight and accessible in all environments.
